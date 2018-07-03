@@ -52,3 +52,13 @@
 + e、将ctags58解压到 到某文件（如：C:\Software ） 将解压或的ctags58目录添加到系统环境的配置中
 
 + f、将_vimrc并复制到当前账户的根目录下（如：win7 的 C:\Users\Administrator）
+
+## 三、参考资料
+
++ [在 Vim 中使用 Git 的插件: Fugitive](http://www.gnailuy.com/linux/2014/12/13/using-git-in-vim-with-fugitive/)
+
++ [vim比较目录diff](https://blog.csdn.net/littlewhite1989/article/details/45312081)
+
++ [nerdtree-git-plugin插件](https://github.com/Xuyuanp/nerdtree-git-plugin)
+
++ [每日vim插件--显示git diff:GitGutter.vim](http://ju.outofmemory.cn/entry/72482)
