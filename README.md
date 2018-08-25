@@ -23,7 +23,7 @@
 
 ./          
 ├── _vimrc                                     用户自定义配置文件（内含有使用说明）
-├── .vim.zip                                   插件包
+├── .vim                                   插件包
 ├── ctags58.zip                                ctags的5.8版本的安装包
 ├── vimtweak.zip                               透明度窗口插件文件压缩包
 ├── gVim_7.4.zip                               gVim7.4基本安装包
@@ -45,7 +45,7 @@
 
 + b、进行配置 在当前账户的根目录下（如：win7 的 C:\Users\Administrator）下建立.vim 文件夹
 
-+ c、将.vim.zip解压到 当前用户根目录下（ win7 的 C:\Users\Administrator ）
++ c、将.vim压缩再解压（或复制）到解压到 当前用户根目录下（ win7 的 C:\Users\Administrator ）
 
 + d、将vimtweak.zip解压到 将里面的vimtweak.dll 复制或移动到 vim的安装文件的vim.exe 同目录中 （ C:\Program Files (x86)\Vim\vim80 ）
 
@@ -62,3 +62,7 @@
 + [nerdtree-git-plugin插件](https://github.com/Xuyuanp/nerdtree-git-plugin)
 
 + [每日vim插件--显示git diff:GitGutter.vim](http://ju.outofmemory.cn/entry/72482)
+
++ [DirDiff](https://www.vim.org/scripts/script.php?script_id=102 )
+
++ [will133/vim-dirdiff](https://github.com/will133/vim-dirdiff)
