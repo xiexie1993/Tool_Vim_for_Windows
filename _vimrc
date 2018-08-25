@@ -484,7 +484,7 @@ let g:Tb_TabWrap = 1
     " 基本功能就是 在PHP文件保存时进行语法检查，有错误会提示出来，没错误不会有任何提示。 
 
 """"""""""""  文件系统管理插件： CtrlP
-""""""""""""  前提：
+""""""""""""  前提：  插件地址：https://github.com/kien/ctrlp.vim
 
 
 
@@ -521,7 +521,7 @@ let g:ctrlp_working_path_mode = 'ra'
     "  :help ctrlp-extensions
 
 """"""""""""  markdown语法高亮插件:vim-markdown-master
-""""""""""""  前提：
+""""""""""""  插件下载：https://github.com/plasticboy/vim-markdown
 
 """ 使用方法
     "
@@ -698,7 +698,7 @@ autocmd FileType html,css EmmetInstall
 "" 注该插件bug暂未使用
 
 """"""""""""  显示 显示git的文件diff状态插件:vim-gitgutter
-""""""""""""  前提：系统安装了git
+""""""""""""  前提：系统安装了git 插件地址：https://github.com/airblade/vim-gitgutter
 
 """ 使用：
     "  波浪线表示该行相比HEAD修改过，
